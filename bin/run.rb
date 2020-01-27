@@ -1,4 +1,4 @@
-Bundler.require "Hashie"
+Bundler.require "Gemfile"
 Sinatra
 Octokit
 Pry
