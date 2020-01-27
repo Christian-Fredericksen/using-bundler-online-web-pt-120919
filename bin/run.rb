@@ -1,3 +1,4 @@
+require Gemfile
 Hashie
 Sinatra
 Octokit
