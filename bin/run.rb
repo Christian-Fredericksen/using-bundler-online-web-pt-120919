@@ -1,4 +1,4 @@
-Bundler.requie "Hashie"
+Bundler.require "Hashie"
 Sinatra
 Octokit
 Pry
