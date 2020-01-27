@@ -1,5 +1,4 @@
-require Gemfile
-Hashie
+Bundler.requie "Hashie"
 Sinatra
 Octokit
 Pry
