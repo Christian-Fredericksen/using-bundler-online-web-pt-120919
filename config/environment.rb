@@ -2,4 +2,4 @@
 
 # gem "bundler/setup", git: "git@github.com:bundler-setup/bundler-setup.git"
 
-require 
+require "bundler/setup" 
